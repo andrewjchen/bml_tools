@@ -8,6 +8,14 @@ iPython notebooks go here. This does not include pure python code (.py files) .
 
 Uncertain how usage examples will work for iPython notebooks!
 
+All instantly viewable here:
+http://nbviewer.ipython.org/github/biomimetics/bml_tools/tree/master/ipython/
+
+### great_figures.ipynb
+http://nbviewer.ipython.org/github/biomimetics/bml_tools/blob/master/ipython/great_figures.ipynb
+
+Publication Quality Plots in Python using Matplotlib
+
 ### telemetryImport.py
 
 This provides a simple python function to import telemetry data from a VelociRoACH. A TelemetryData object with named fields is returned.
@@ -24,6 +32,8 @@ Example usage:
 				<telemetryImport.TelemetryData instance at 0x075E6FA8>
 
 ### telemetry_plotter.ipynb
+http://nbviewer.ipython.org/github/biomimetics/bml_tools/blob/master/ipython/telemetry_plotter.ipynb
+
 iPython notebook to read telemetry file from robot, and plot state data, as well as calculated torque/power. 
 
 Usage
